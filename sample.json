@@ -1,0 +1,59 @@
+{
+    "status": "ok",
+"totalResults": 2402,
+"articles": [
+{
+"source": {
+"id": "engadget",
+"name": "Engadget"
+},
+"author": "Jon Fingas",
+"title": "Apple service outages affect App Store, Maps and more",
+"description": "Notice Apple that several Apple services are unavailable? You're not alone. As Bloomberg's Mark Gurman notes, Apple's system status page indicates outages across several major services, including the App Store, Apple Arcade, Apple TV+, on-device AppleCare, Fi…",
+"url": "https://www.engadget.com/apple-app-store-music-tv-plus-outage-175546742.html",
+"urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-03/4a637ab0-a93f-11ec-acfb-e7b010639b05",
+"publishedAt": "2022-03-21T17:55:46Z",
+"content": "Notice Apple that several Apple services are unavailable? You're not alone. As Bloomberg's Mark Gurman notes, Apple's system status page indicates outages across several major services, including the… [+995 chars]"
+},
+{
+"source": {
+"id": "the-verge",
+"name": "The Verge"
+},
+"author": "Jon Porter",
+"title": "Foxconn’s Shenzhen factories resume operations after lockdown",
+"description": "Foxconn, the world’s biggest contract manufacturer of electronics, says it’s “basically” resumed normal operations in Shenzhen after a partial lockdown forced its factories offline. Its Longhua and Guanlan factories are impacted.",
+"url": "https://www.theverge.com/2022/3/21/22989082/foxconns-shenzhen-factories-resume-operations-covid-19-lockdown",
+"urlToImage": "https://cdn.vox-cdn.com/thumbor/IwKrWFH_QU0PDs4BHQ5bGhQUtoM=/0x412:5760x3428/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23333706/1096286350.jpg",
+"publishedAt": "2022-03-21T15:27:49Z",
+"content": "After a week offline\r\nPhoto by Nora Tam/South China Morning Post via Getty Images\r\nFoxconn, the worlds biggest contract manufacturer of electronics, says its basically resumed normal operations in Sh… [+1282 chars]"
+},
+{
+"source": {
+"id": "the-verge",
+"name": "The Verge"
+},
+"author": "Jon Porter",
+"title": "Today I learned an iPhone trick to quickly select multiple items",
+"description": "There’s a built in gesture to bulk select messages, emails, notes, and more across Apple’s stock apps. Rather than using a sub-menu menu to put the items in “Select” mode, you can just swipe two fingers down the list.",
+"url": "https://www.theverge.com/2022/3/21/22988703/ios-tip-select-multiple-items-apple-apps-ipados",
+"urlToImage": "https://cdn.vox-cdn.com/thumbor/27VKu8-Ksg-_56gYnQl0K3SqZhI=/0x144:2002x1192/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22863273/vpavic_210916_4760_0240.jpg",
+"publishedAt": "2022-03-21T09:13:01Z",
+"content": "The iPhone 13 Mini and iPhone 13. | Photo by Vjeran Pavic / The Verge\r\n\n \n\n I almost feel silly writing this out but… did anyone else know there’s a built-in gesture to bulk select messages, emails, … [+1638 chars]"
+}
+
+
+]
+}
+
+
+
+
+
+
+
+
+
+
+
+
