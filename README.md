@@ -22,7 +22,7 @@ The free tier comes with the following restrictions:
 <li>100 hits/day</li>
 <li>New articles available with 1 hour delay</li>
 
-# Benefits of Weather-Forecast
+# Benefits
 
 <li>Easy to use.</li>
 <li>Current Exclusive News With Popular Category .</li>
