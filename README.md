@@ -19,7 +19,7 @@ The free tier comes with the following restrictions:
 
 <li>No SSL</li>
 <li>CORS enabled for localhost</li>
-<li>100 hits/day</li>
+<li>1000 hits/day</li>
 <li>New articles available with 1 hour delay</li>
 
 # Benefits
